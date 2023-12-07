@@ -11,7 +11,6 @@ let answerArray: string[] = []
 for (let i = 0; i < word.length; i++) {
     answerArray[i] = '-'
 }
-
 var remainingLetters = word.length
 while (remainingLetters > 0) {
     alert(answerArray.join())
