@@ -1,0 +1,22 @@
+.App {
+  padding: 30px;
+  display: flex;
+}
+
+.App > div {
+  margin-right: 50px;
+}
+.wrapperCounter{
+  padding: 20px;
+  border: 1px solid cornflowerblue;
+  background-color: cadetblue;
+  border-radius: 10px;
+}
+.wrapperButton{
+  padding-top: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+.action{
+  font-size: 20px;
+}
